@@ -3,3 +3,4 @@ vcs.xml
 modules.xml
 .gitignore
 Java_flatform.iml
+/out*
